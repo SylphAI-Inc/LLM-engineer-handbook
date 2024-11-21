@@ -52,6 +52,7 @@ The LLM space is complicated! This repo provides a curated list to help you navi
 - [LangChain](https://github.com/hwchase17/langchain) — A popular Python/JavaScript library for chaining sequences of language model prompts.
 - [Haystack](https://github.com/deepset-ai/haystack) — Python framework that allows you to build applications powered by LLMs.
 - [Instill Core](https://github.com/instill-ai/instill-core) — A platform built with Go for orchestrating LLMs to create AI applications.
+- [magentic](https://github.com/jackmpcollins/magentic) - A library to seamlessly integrate LLMs as Python functions.
 
 **Prompt Optimization**
 
