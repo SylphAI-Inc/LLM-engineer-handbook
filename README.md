@@ -37,6 +37,7 @@ We organize the resources by (1) tracking all libraries, frameworks, and tools, 
       - [Agent](#agent)
     - [Modeling](#modeling)
     - [Training](#training)
+    - [RAG](#rag)
     - [Fine-tuning](#fine-tuning-1)
     - [Fundamentals](#fundamentals)
     - [Books](#books)
@@ -120,6 +121,7 @@ We organize the resources by (1) tracking all libraries, frameworks, and tools, 
 ## Prompt Management
 
 - [Opik](https://github.com/comet-ml/opik) - Opik is an open-source platform for evaluating, testing and monitoring LLM applications
+- [Prompt flow](https://github.com/microsoft/promptflow) -A toolkit by Microsoft for managing the end-to-end prompt engineering process, including the creation, debugging, and deployment of LLM workflows.
 
 ## Datasets
 
@@ -194,6 +196,9 @@ Projects
 - [Lil'Log](https://lilianweng.github.io/) - Lilian Weng(OpenAI)'s blog on machine learning, deep learning, and AI, with a focus on LLMs and NLP.
 - [Chip's Blog](https://huyenchip.com/blog/) - Chip Huyen's blog on training LLMs, including the latest research, tutorials, and best practices.
 
+### RAG
+- [Learn RAG with Langchain](https://www.sakunaharinda.xyz/ragatouille-book/intro.html) - A guide to understanding the fundamentals of RAG (Retrieval-Augmented Generation) with Langchain.
+
 ### Fine-tuning
 
 - [DPO](https://arxiv.org/abs/2305.18290): Rafailov, Rafael, et al. "Direct preference optimization: Your language model is secretly a reward model." Advances in Neural Information Processing Systems 36 (2024). [Code](https://github.com/eric-mitchell/direct-preference-optimization).
@@ -212,7 +217,8 @@ Projects
 
 - [Ahead of AI](https://magazine.sebastianraschka.com/) - Sebastian Raschka's Newsletter, covering end-to-end LLMs understanding.
 - [Decoding ML](https://decodingml.substack.com/) - Content on building production GenAI, RecSys and MLOps applications.
-
+- [AlphaSignal](https://alphasignal.ai/) - A newsletter delivering the latest breakthrough news, models, research, and repositories in AI and machine learning.
+- [NLP Newsletter](https://nlp.elvissaravia.com/) - Weekly summaries of top AI trends, papers, tools, and news, featuring highlights like Top ML Papers of the Week.
 
 
 ### Auto-optimization
@@ -253,6 +259,7 @@ Social accounts are the best ways to stay up-to-date with the lastest LLM resear
 | Zach Wilson        | [LinkedIn](https://www.linkedin.com/in/eczachly)       | Data Engineering for LLMs    |
 | Adi Polak          | [LinkedIn](https://www.linkedin.com/in/polak-adi/)       | Data Streaming for LLMs    |
 | Eduardo Ordax    | [LinkedIn](https://www.linkedin.com/in/eordax/) | GenAI voice @ AWS |
+| Elvis Saravia    | [LinkedIn](https://www.linkedin.com/in/omarsar/) | LLM/NLP Papers Weekly  |
 
 ## Community
 
