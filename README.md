@@ -123,7 +123,8 @@ We organize the resources by (1) tracking all libraries, frameworks, and tools, 
 ## Prompt Management
 
 - [Opik](https://github.com/comet-ml/opik) - Opik is an open-source platform for evaluating, testing and monitoring LLM applications
-
+- [Agenta](https://github.com/agenta-ai/agenta) - Open-source LLM engineering platform with prompt playground, prompt management, evaluation and observability.
+    
 ## Datasets
 
 Use Cases
