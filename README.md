@@ -76,6 +76,7 @@ We organize the resources by (1) tracking all libraries, frameworks, and tools, 
 **Others**
 
 - [LiteLLM](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format.
+- [Vekil](https://github.com/sozercan/vekil) - Go reverse proxy exposing Anthropic, Gemini, and OpenAI-compatible APIs behind one local endpoint, with multi-provider routing across GitHub Copilot, Azure OpenAI, and OpenAI Codex.
 
 
 ## Pretraining
