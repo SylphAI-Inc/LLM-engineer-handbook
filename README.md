@@ -110,6 +110,8 @@ We organize the resources by (1) tracking all libraries, frameworks, and tools, 
 
 - [ollama](https://github.com/ollama/ollama) - A lightweight, extensible framework for building and running large language models on the local machine.
 
+- [Tuning Engines](https://github.com/cerebrixos-org/tuningengines) - OpenAI-compatible control plane for governed inference, runtime traces, approvals, policy enforcement, and usage or cost visibility across models, agents, MCP servers, and skills.
+
 - [llama.cpp](https://github.com/ggerganov/llama.cpp) - A library for running LLMs in pure C/C++. Supported architectures include (LLaMA, Falcon, Mistral, MoEs, phi and more)
 
 - [TGI](https://github.com/huggingface/text-generation-inference) - HuggingFace's text-generation-inference toolkit for deploying and serving LLMs, built on top of Rust, Python and gRPC.
@@ -124,6 +126,7 @@ We organize the resources by (1) tracking all libraries, frameworks, and tools, 
 
 - [Opik](https://github.com/comet-ml/opik) - Opik is an open-source platform for evaluating, testing and monitoring LLM applications
 - [Agenta](https://github.com/agenta-ai/agenta) - Open-source LLM engineering platform with prompt playground, prompt management, evaluation and observability.
+- [Tuning Engines](https://github.com/cerebrixos-org/tuningengines) - Runtime governance layer for prompts, model access, agent and MCP activity, approval workflows, and auditability on top of OpenAI-compatible interfaces.
     
 ## Datasets
 
@@ -306,4 +309,3 @@ Thanks to the community, this repo is getting read by more people every day.
 ---
 
 If you have any question about this opinionated list, do not hesitate to contact [Li Yin](https://www.linkedin.com/in/li-yin-ai)
-
