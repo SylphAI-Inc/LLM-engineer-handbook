@@ -119,6 +119,7 @@ We organize the resources by (1) tracking all libraries, frameworks, and tools, 
 - [sglang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and vision language models.
 
 - [LitServe](https://github.com/Lightning-AI/LitServe) - LitServe is a lightning-fast serving engine for any AI model of any size. Flexible. Easy. Enterprise-scale.
+- [KV Cache Store](https://kvcachestore.com) - Hosted KV-cache artifact registry plus open-source Rust CLI. Precompute, verify, quantize, and reuse key/value cache artifacts across RAG and long-context inference to cut prefill cost and latency.
 
 ## Prompt Management
 
