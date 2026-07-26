@@ -148,6 +148,7 @@ Pretraining
 
 - [evals](https://github.com/openai/evals) - OpenAI's open sourced evaluation framework for LLMs and systems built with LLMs.
 - [ragas](https://github.com/explodinggradients/ragas) - A library for evaluating and optimizing LLM applications, offering a rich set of eval metrics.
+- [StructEval](https://github.com/TIGER-AI-Lab/StructEval) - [TMLR 2025](https://openreview.net/forum?id=buDwV7LUA7) benchmark for LLM structured-output generation and conversion, with 2,035 examples across 18 text and renderable formats and format-specific structural and visual evaluation.
 
 Agent
 
