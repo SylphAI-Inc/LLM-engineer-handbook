@@ -170,6 +170,7 @@ General
 - [LLM-driven Data Engineering](https://github.com/DataExpert-io/llm-driven-data-engineering) -  A playlist of 6 lectures by [Zach Wilson](https://www.linkedin.com/in/eczachly) on how LLMs will impact data pipeline development 
 
 - [LLM Course by Maxime Labonne](https://github.com/mlabonne/llm-course) - An end-to-end course for AI and ML engineers on open source LLMs.
+- [AI Engineer Notebooks](https://github.com/calmrocks/ai-engineer-notebooks) - Framework-free, hands-on Colab notebooks covering the applied-LLM stack end to end: model APIs, RAG, evals (LLM-as-judge, golden sets, regression), agents from scratch (tool design, guardrails, MCP, Skills), fine-tuning vs LoRA, security, and LLMOps; runs on the free Groq API.
 - [LLMOps Database by ZenML](https://www.zenml.io/llmops-database) - 500+ case studies of LLMs and GenAI applications in production, all with summaries and tags for easy browsing.
 
 #### Agent
