@@ -232,6 +232,7 @@ Projects
 - [Large Language Models: A Deep Dive: Bridging Theory and Practice](https://www.amazon.com/Large-Language-Models-Bridging-Practice/dp/3031656466) by by Uday Kamath, Kevin Keenan, Garrett Somers, Sarah Sorenson
 ### Newsletters
 
+- [AI Weekly](https://aiweekly.co/) - Tracks what influential AI experts and organizations are reading and sharing, with ranked explanations of models, agents, funding, policy, and research.
 - [Ahead of AI](https://magazine.sebastianraschka.com/) - Sebastian Raschka's Newsletter, covering end-to-end LLMs understanding.
 - [Decoding ML](https://decodingml.substack.com/) - Content on building production GenAI, RecSys and MLOps applications.
 
