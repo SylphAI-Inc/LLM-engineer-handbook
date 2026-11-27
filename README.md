@@ -201,6 +201,7 @@ Projects
 - [AutoGen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 by Microsoft.
 - [CrewAI](https://github.com/crewAIInc/crewAI) - 🤖 CrewAI: Cutting-edge framework for orchestrating role-playing, autonomous AI agents.
 - [TinyTroupe](https://github.com/microsoft/TinyTroupe) - Simulates customizable personas using GPT-4 for testing, insights, and innovation by Microsoft.
+- [Heym](https://github.com/heymrun/heym) - Self-hosted runtime for composing LLM agents and workflow steps, with human approval checkpoints, execution traces, and evaluations.
 
 ### Modeling
 
